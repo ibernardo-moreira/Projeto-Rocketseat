@@ -1,5 +1,5 @@
 <h1 align="center"> Projeto RockeatSeat </h1>
-<p> Como desafio final, o curso do Discover propõe a criação de um site estilo linktree. </p>
+<p align="center"> Como desafio final, o curso do Discover propõe a criação de um site estilo linktree. </p>
 <p align="center">
 <img src=".github/preview.png" alt="Projeto DevLinks">
 </p>
@@ -11,4 +11,4 @@
     <li> Figma</li>
 </ul>    
 <h2> Layout </h2>
-<p> Acesse o projeto do figma através [Desse link](https://www.figma.com/community/file/1187422022288947321)
+<p> Acesse o projeto do figma através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover)
