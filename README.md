@@ -10,5 +10,3 @@
     <li> Git e Github</li>
     <li> Figma</li>
 </ul>    
-<h2> Layout </h2>
-<p> Acesse o projeto do figma através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover)
